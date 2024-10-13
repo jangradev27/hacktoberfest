@@ -2,7 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
-
+#### Name : Dev
+ - Place: Haryana,India
+ - Bio : Second Year Computer Science Student in Du
+ - GitHub: [jangradev27](https://github.com/jangradev27)
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
